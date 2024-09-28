@@ -1,7 +1,7 @@
 using System.ComponentModel.Design;
 using System.Thread
 
-namespace Recher
+namespace Rechner
 {
     class DreiXPlusEins
     {
